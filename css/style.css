@@ -1,0 +1,13 @@
+#iimg{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+span{
+    display: block;
+}
+
+#cv{
+    padding-top: 35px;
+}
